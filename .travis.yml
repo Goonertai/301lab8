@@ -15,8 +15,9 @@ android:
     #Android SDK Tools
     - tools
     - platform-tools
+    
     #BuildTools version
-    - build-tools-$ANDROID_BUILD_TOOLS_VERSION:30.0.0
+    - build-tools-$ANDROID_BUILD_TOOLS_VERSION
     
     #SDK version
     - android-$ANDROID_API_LEVEL
