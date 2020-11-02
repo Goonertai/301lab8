@@ -30,7 +30,7 @@ android:
     - extra-android-support
     
     #Building the emulator
-    - sys-ing-$ANDROID_ABI-google_apis-$ANDROID_EMU_API_LEVEL
+    - sys-img-$ANDROID_ABI-google_apis-$ANDROID_EMU_API_LEVEL
     
     
   licenses:
